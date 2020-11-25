@@ -10,7 +10,9 @@ Very simple network tool written in **Go** in order to practice and gain **Go** 
 
 You can run the application by typing `go run netool.go command hostname` where 
 * `command` is one of the four actions listed above
-* `hostname` is the desired URL upon the specified command will act
+* `hostname` is the desired URL upon the specified command will act 
+(<-- two spaces)
+
 Or just build it with `go build netool.go` and then run the compiled binary.
 
 
